@@ -19,3 +19,10 @@ html, body {
 div {
   display: block;
 }
+.quote {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+}
+p {
+  display: block;
+}
